@@ -1,0 +1,10 @@
+#include<stdio.h>
+
+void Sample(void) {
+//ï“èWå„
+ printf("Test\n");
+
+}
+
+
+
